@@ -130,7 +130,7 @@ Latest Better Blur versions for previous Plasma releases:
 </details>
 
 <details>
-  <summary>Fedora 41, 42</summary>
+  <summary>Fedora 41, 42, 43</summary>
   <br>
 
   Wayland:
